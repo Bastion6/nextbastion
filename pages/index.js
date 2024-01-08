@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Bastion | Coming Soom</title>
+        <title>Bastion | Coming Soon</title>
         <meta name="description" content="To Securing Africa's burgeoning Tech Infrastructure" />
         <link rel="icon" href="/favicon.ico"/>
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
@@ -26,7 +26,7 @@ export default function Home() {
     />
         </div>
         <h1 className={styles.title}>
-          Coming Soon
+        Scheduled Maintenance,be back Soon
         </h1>
       </main> 
     </div>
